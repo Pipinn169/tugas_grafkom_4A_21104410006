@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410006** |
+| Nama Lengkap | **Putri Rochfiani** |
 | Kelas | TI-4A |
